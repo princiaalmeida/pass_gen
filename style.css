@@ -33,16 +33,6 @@ body{
 .inputBox{
     position: relative;
 }
-
-.inputBox span{
-    position: absolute;
-    top: 16px;
-    right: 6px;
-    color: #000;
-    font-size: 28px;
-    cursor: pointer;
-    z-index: 2;
-}
 .passBox{
     background-color: #fff;
     border: none;
